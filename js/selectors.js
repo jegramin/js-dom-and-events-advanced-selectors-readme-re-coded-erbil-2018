@@ -2,4 +2,6 @@
 function paragraphSelector(){
   return document.querySelectorAll("p");
 }
-function 
+function lastImageSelector(){
+  
+}
