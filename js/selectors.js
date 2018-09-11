@@ -12,5 +12,5 @@ function divSelector(){
   return document.getElementsByClassName("pics")
 }
 function firstListItem(){
-  return document.getElementsByClassName("pics")
+  return $('#pic-list img:first-child')
 }
