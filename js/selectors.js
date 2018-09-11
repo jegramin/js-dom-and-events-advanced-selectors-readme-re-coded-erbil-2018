@@ -11,3 +11,6 @@ function ninjaBabySelector(){
 function divSelector(){
   return document.getElementsByClassName("pics")
 }
+function divSelector(){
+  return document.getElementsByClassName("pics")
+}
