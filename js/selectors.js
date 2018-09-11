@@ -11,6 +11,6 @@ function ninjaBabySelector(){
 function divSelector(){
   return document.getElementsByClassName("pics")
 }
-function divSelector(){
+function firstListItem(){
   return document.getElementsByClassName("pics")
 }
