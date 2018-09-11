@@ -9,5 +9,5 @@ function ninjaBabySelector(){
   return document.getElementById("baby-ninja")
 }
 function divSelector(){
-  return document.getElementsByClassName("baby-ninja")
+  return document.getElementsByClassName("pics")
 }
