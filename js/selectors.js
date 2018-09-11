@@ -8,6 +8,6 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   return document.getElementById("baby-ninja")
 }
-function ninjaBabySelector(){
-  return document.getElementById("baby-ninja")
+function divSelector(){
+  return document.getElementsByClassName("baby-ninja")
 }
