@@ -1,4 +1,4 @@
 // declare your functions here...
 function paragraphSelector(){
-  return document.querySelectorAll("p")
+  return document.querySelector("p")
 }
